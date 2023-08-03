@@ -1,0 +1,28 @@
+.friendonline{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+.rightBarProfileimgContainer{
+    margin-right: 10px;
+    position: relative;
+}
+.RightbarProfileimges{
+    width: 27px;
+    height: 27px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.rbaronline{
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background-color: limegreen;
+    position: absolute;
+    top: -2px;
+    right: 0;
+    border: 2px solid white;
+}
+.rbarusernm{
+    font-weight: 500;
+}
